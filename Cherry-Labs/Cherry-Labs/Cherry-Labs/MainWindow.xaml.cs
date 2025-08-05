@@ -41,35 +41,57 @@ namespace Cherry_Labs
             InitializeComponent();
             ChatList.ItemsSource = ChatMessages;
         }
+
+        // detect if key pressed is "ENTER"
+        private void ChatInput_KeyDown(object sender, KeyRoutedEventArgs e)
+        {
+            if (e.Key == Windows.System.VirtualKey.Enter)
+            {
+                // prevents a new line from being created
+                e.Handled = true;
+
+                // sends request to the request handling function
+                SendButton_Click(this, new RoutedEventArgs()); 
+            }
+        }
         private async void SendButton_Click(object sender, RoutedEventArgs e)
         {
-            ChatInput.Document.GetText(Microsoft.UI.Text.TextGetOptions.None, out string userInput);
-            userInput = userInput.Trim();
 
-            if (!string.IsNullOrEmpty(userInput))
+            // gets the value in the rich text box
+            ChatInput.Document.GetText(Microsoft.UI.Text.TextGetOptions.None, out string user_input);
+            user_input = user_input.Trim();
+
+            // only sends a request to gemini if the user_input has something of value
+            if (!string.IsNullOrEmpty(user_input))
             {
-                ChatMessages.Add("You: " + userInput);
-
-                string assistantReply = await SendGeminiRequest(userInput);
-                ChatMessages.Add("Bot: " + assistantReply);
-
-                // Clear input
+                // clear input
                 ChatInput.Document.SetText(Microsoft.UI.Text.TextSetOptions.None, "");
+
+                // add to chat section
+                ChatMessages.Add("You: " + user_input + "\n");
+
+                // sends the request to gemini and updates the chat
+                string assistantReply = await SendGeminiRequest(user_input);
+                ChatMessages.Add("Bot: " + assistantReply);
             }
         }
 
 
         private async Task<string> SendGeminiRequest(string user_input)
         {
+
+            // this is used so that the user can use their own API key
             string api_key = Environment.GetEnvironmentVariable("GEMINI_API_KEY").Trim();
 
+
+            // checks if the API key exists, and if not instructs the user to create one
             if (string.IsNullOrWhiteSpace(api_key))
             {
                 return "Gemini API Key has not been set. Please edit your system's enviorment variables and add key named \"GEMINI_API_KEY\" with its value being the api key. \nThank you.";
             }
 
 
-            //set global endpoint
+            // set global endpoint
             string endpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}";
 
             // create a new request
@@ -87,6 +109,7 @@ namespace Cherry_Labs
             string jsonBody = JsonSerializer.Serialize(request);
             var content = new StringContent(jsonBody, Encoding.UTF8, "application/json");
 
+            // send the request via HTTPS
             using var client = new HttpClient();
             var response = await client.PostAsync(endpoint, content);
             string response_json = await response.Content.ReadAsStringAsync();
@@ -95,6 +118,7 @@ namespace Cherry_Labs
             return ExtractGeminiReply(response_json);
         }
 
+        // used to extract the text data and not the other data
         private string ExtractGeminiReply(string json)
         {
         try

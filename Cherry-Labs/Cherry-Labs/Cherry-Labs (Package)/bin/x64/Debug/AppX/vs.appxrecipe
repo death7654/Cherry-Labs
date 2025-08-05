@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:24:22.100</Modified>
+      <Modified>2025-08-05T17:41:08.021</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -52,7 +52,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
-      <Modified>2025-08-05T17:08:56.515</Modified>
+      <Modified>2025-08-05T17:55:09.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.26100.0\Redist\Debug\x64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -266,11 +266,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>Cherry-Labs\MainWindow.xbf</PackagePath>
-      <Modified>2025-08-05T17:08:56.515</Modified>
+      <Modified>2025-08-05T17:55:09.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>Cherry-Labs\Cherry-Labs.exe</PackagePath>
-      <Modified>2025-08-05T17:24:18.279</Modified>
+      <Modified>2025-08-05T17:55:10.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.runtimeconfig.json">
       <PackagePath>Cherry-Labs\Cherry-Labs.runtimeconfig.json</PackagePath>
@@ -278,7 +278,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.dll">
       <PackagePath>Cherry-Labs\Cherry-Labs.dll</PackagePath>
-      <Modified>2025-08-05T17:24:18.246</Modified>
+      <Modified>2025-08-05T17:55:10.404</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
