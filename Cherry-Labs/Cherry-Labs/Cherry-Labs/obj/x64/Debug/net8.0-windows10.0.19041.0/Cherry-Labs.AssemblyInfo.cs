@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cherry-Labs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aaef60096b605f2ad8469269d5db048424ea11d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c4708ed17c4c802a530e3268e2eb658a659c47f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cherry-Labs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cherry-Labs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -39,3 +39,76 @@
 
 # debug information files
 *.dwo
+
+# Ignore build outputs
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.VC.db
+*.vsp
+*.vspscc
+*.vssscc
+
+# Ignore VS Code settings if used
+.vscode/
+
+# Ignore VS working folder
+.vs/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore compiled DLLs and EXEs
+*.dll
+*.exe
+*.pdb
+
+# Ignore secrets and API keys if accidentally added
+secrets.json
+*.key
+*.pem
+*.crt
+
+# Ignore logs and temp
+*.log
+*.tmp
+*.cache
+
+# Ignore test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Ignore user settings
+*.swp
+*.sln.docstates
+
+# Ignore publish artifacts
+publish/
+*.publishsettings
+*.pubxml
+
+# Ignore local app data
+App_Data/
+
+# Optional: JetBrains Rider
+.idea/
+
+# Optional: Resharper
+_ReSharper*/
+*.DotSettings.user
+
