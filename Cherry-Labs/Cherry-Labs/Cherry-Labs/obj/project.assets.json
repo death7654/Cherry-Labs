@@ -1510,23 +1510,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robin\\.nuget\\packages\\": {},
+    "C:\\Users\\devad\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
+      "projectUniqueName": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
       "projectName": "Cherry-Labs",
-      "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
-      "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\obj\\",
+      "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
+      "packagesPath": "C:\\Users\\devad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1582,27 +1582,27 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-arm64",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x86",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -1610,15 +1610,15 @@
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-            "version": "[8.0.18, 8.0.18]"
+            "version": "[8.0.19, 8.0.19]"
           }
         ],
         "frameworkReferences": {
@@ -1629,7 +1629,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

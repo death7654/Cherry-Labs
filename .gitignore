@@ -112,3 +112,85 @@ App_Data/
 _ReSharper*/
 *.DotSettings.user
 
+
+## Ignore build results
+bin/
+obj/
+Generated Files/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VSCode / VS
+.vscode/
+.idea/
+.vs/
+
+## .NET related
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+
+## Windows SDK Cache
+.vs/
+*.dbmdl
+*.bak
+*.backup
+*.log
+
+## NuGet packages (optional, if using packages folder instead of PackageReference)
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+## Auto-generated files
+*.g.*
+*.i.*
+*.g.cs
+*.g.i.cs
+*.AssemblyInfo.cs
+
+## Local environment files
+*.user
+*.vspscc
+*.vssscc
+
+## Debugging files
+*.pdb
+*.cache
+*.ilk
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+## Publish outputs
+publish/
+AppPackages/
+TestResults/
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+
+## Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## JetBrains Rider
+.idea/
+
+## Logs
+*.log
+
+## Others
+_ReSharper*/
+
+

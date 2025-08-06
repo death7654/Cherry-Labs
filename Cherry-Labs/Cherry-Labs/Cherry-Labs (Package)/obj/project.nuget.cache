@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fiVlR/f5Gmg=",
+  "dgSpecHash": "gvI6pcxhCaQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
+  "projectFilePath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
   "expectedPackageFiles": [
-    "C:\\Users\\robin\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
-    "C:\\Users\\robin\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.4654\\microsoft.windows.sdk.buildtools.10.0.26100.4654.nupkg.sha512",
-    "C:\\Users\\robin\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250606001\\microsoft.windowsappsdk.1.7.250606001.nupkg.sha512"
+    "C:\\Users\\devad\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
+    "C:\\Users\\devad\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.4654\\microsoft.windows.sdk.buildtools.10.0.26100.4654.nupkg.sha512",
+    "C:\\Users\\devad\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250606001\\microsoft.windowsappsdk.1.7.250606001.nupkg.sha512"
   ],
   "logs": []
 }

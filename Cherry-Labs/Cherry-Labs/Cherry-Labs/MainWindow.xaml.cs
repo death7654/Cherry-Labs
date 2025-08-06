@@ -1,13 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-//https
-using System.Net.Http;
-using System.Runtime.InteropServices.WindowsRuntime;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 using Microsoft.UI.Xaml.Controls.Primitives;
@@ -15,13 +5,27 @@ using Microsoft.UI.Xaml.Data;
 using Microsoft.UI.Xaml.Input;
 using Microsoft.UI.Xaml.Media;
 using Microsoft.UI.Xaml.Navigation;
+using System;
+using System.Collections.Generic;
+// users
+using System.Collections.ObjectModel;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+//https
+using System.Net.Http;
+using System.Runtime.InteropServices.WindowsRuntime;
+using System.Text;
+using System.Text.Json;
+using System.Text.Json;
+using System.Threading.Tasks;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.Networking.NetworkOperators;
+// file management
+using Windows.Storage.Pickers;
+using WinRT.Interop;
 
-// users
-using System.Collections.ObjectModel;
-using System.Text.Json;
 
 
 
@@ -135,9 +139,41 @@ namespace Cherry_Labs
         {
             return "Failed to parse Gemini response.";
         }
+
+
+
+        
     }
 
+        private async void AttachButton_Click(object sender, RoutedEventArgs e)
+        {
+            var picker = new FileOpenPicker();
+
+            // Associate the picker with the current window (required in WinUI 3)
+            var hwnd = WindowNative.GetWindowHandle(this);
+            InitializeWithWindow.Initialize(picker, hwnd);
+
+            // Filter file types (optional)
+            picker.FileTypeFilter.Add("*"); // All file types
+
+            // Let user pick a single file
+            var file = await picker.PickSingleFileAsync();
+
+            if (file != null)
+            {
+                // You can now access file.Path or file.Name etc.
+                string selectedPath = file.Path;
+                // Do something with the selected file path
+                Debug.WriteLine("Selected file: " + selectedPath);
+            }
+            else
+            {
+                Debug.WriteLine("No file selected.");
+            }
+        }
 
 
-}
+
+
+    }
 }

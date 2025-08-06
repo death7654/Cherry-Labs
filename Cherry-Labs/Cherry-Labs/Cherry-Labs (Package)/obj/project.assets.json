@@ -1397,24 +1397,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robin\\.nuget\\packages\\": {},
+    "C:\\Users\\devad\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
+      "projectUniqueName": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
       "projectName": "Cherry-Labs (Package)",
-      "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
-      "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\obj\\",
+      "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
+      "packagesPath": "C:\\Users\\devad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1429,8 +1429,8 @@
         "uap10.0.17763": {
           "targetAlias": "net451",
           "projectReferences": {
-            "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj": {
-              "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj"
+            "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj": {
+              "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj"
             }
           }
         }
