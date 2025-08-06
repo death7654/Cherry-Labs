@@ -50,6 +50,10 @@ Cherry-Labs is a Windows desktop application built using WinUI 3 and .NET 8. It 
 
 5. Run `Cherry-Labs.exe` to start the application.
 
+## Video Demo
+- You can find our demo [here](https://youtu.be/p_PwFxH6gU8)
+
+
 ### Requirements
 
 - Windows 10 version 1809 (build 17763) or later
