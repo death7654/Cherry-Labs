@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj": {}
+    "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj": {}
   },
   "projects": {
-    "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj": {
+    "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
         "projectName": "Cherry-Labs (Package)",
-        "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
-        "packagesPath": "C:\\Users\\devad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\obj\\",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\Cherry-Labs (Package).wapproj",
+        "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs (Package)\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\devad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "uap10.0.17763": {
             "targetAlias": "net451",
             "projectReferences": {
-              "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj": {
-                "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj"
+              "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj": {
+                "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj"
               }
             }
           }
@@ -91,20 +91,20 @@
         }
       }
     },
-    "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj": {
+    "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
         "projectName": "Cherry-Labs",
-        "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
-        "packagesPath": "C:\\Users\\devad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\obj\\",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
+        "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\devad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -137,6 +137,12 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.18, )",
+              "autoReferenced": true
+            },
             "Microsoft.Windows.SDK.BuildTools": {
               "target": "Package",
               "version": "[10.0.26100.4654, )"
@@ -160,27 +166,31 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-arm64",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -188,15 +198,15 @@
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-              "version": "[8.0.19, 8.0.19]"
+              "version": "[8.0.18, 8.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -207,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

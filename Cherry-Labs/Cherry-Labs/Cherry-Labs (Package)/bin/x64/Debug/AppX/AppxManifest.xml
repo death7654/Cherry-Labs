@@ -41,7 +41,7 @@
     <build:Item Name="VisualStudio" Version="17.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2022" />
     <build:Item Name="OperatingSystem" Version="10.0.26100.1 (WinBuild.160101.0800)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.14.40507.50062" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.14.40454.53228" />
     <build:Item Name="ProjectGUID" Value="8c39abd5-3fb3-45ec-b6e9-473c2fb6ca61" />
     <build:Item Name="Microsoft.UniversalCRT.Debug" Version="10.0.26100.0" />
     <build:Item Name="makepri.exe" Version="10.0.26100.4654 (WinBuild.160101.0800)" />

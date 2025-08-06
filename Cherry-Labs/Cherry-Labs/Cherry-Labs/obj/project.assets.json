@@ -2,6 +2,12 @@
   "version": 3,
   "targets": {
     "net8.0-windows10.0.19041": {
+      "Microsoft.NET.ILLink.Tasks/8.0.18": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
       "Microsoft.Web.WebView2/1.0.2903.40": {
         "type": "package",
         "build": {
@@ -190,6 +196,12 @@
       }
     },
     "net8.0-windows10.0.19041/win-arm64": {
+      "Microsoft.NET.ILLink.Tasks/8.0.18": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
       "Microsoft.Web.WebView2/1.0.2903.40": {
         "type": "package",
         "native": {
@@ -337,6 +349,12 @@
       }
     },
     "net8.0-windows10.0.19041/win-x64": {
+      "Microsoft.NET.ILLink.Tasks/8.0.18": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
       "Microsoft.Web.WebView2/1.0.2903.40": {
         "type": "package",
         "native": {
@@ -484,6 +502,12 @@
       }
     },
     "net8.0-windows10.0.19041/win-x86": {
+      "Microsoft.NET.ILLink.Tasks/8.0.18": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
       "Microsoft.Web.WebView2/1.0.2903.40": {
         "type": "package",
         "native": {
@@ -632,6 +656,57 @@
     }
   },
   "libraries": {
+    "Microsoft.NET.ILLink.Tasks/8.0.18": {
+      "sha512": "OiXqr2YIBEV9dsAWEtasK470ALyJ0VxJ9k4MotOxlWV6HeEgrJKYMW4HHj1OCCXvqE0/A25wEKPkpfiBARgDZA==",
+      "type": "package",
+      "path": "microsoft.net.illink.tasks/8.0.18",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "Sdk/Sdk.props",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/cs/ILLink.CodeFixProvider.dll",
+        "analyzers/dotnet/cs/ILLink.RoslynAnalyzer.dll",
+        "build/Microsoft.NET.ILLink.Analyzers.props",
+        "build/Microsoft.NET.ILLink.Tasks.props",
+        "build/Microsoft.NET.ILLink.targets",
+        "microsoft.net.illink.tasks.8.0.18.nupkg.sha512",
+        "microsoft.net.illink.tasks.nuspec",
+        "tools/net472/ILLink.Tasks.dll",
+        "tools/net472/ILLink.Tasks.dll.config",
+        "tools/net472/Mono.Cecil.Mdb.dll",
+        "tools/net472/Mono.Cecil.Pdb.dll",
+        "tools/net472/Mono.Cecil.Rocks.dll",
+        "tools/net472/Mono.Cecil.dll",
+        "tools/net472/Sdk/Sdk.props",
+        "tools/net472/System.Buffers.dll",
+        "tools/net472/System.Collections.Immutable.dll",
+        "tools/net472/System.Memory.dll",
+        "tools/net472/System.Numerics.Vectors.dll",
+        "tools/net472/System.Reflection.Metadata.dll",
+        "tools/net472/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net472/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net472/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net472/build/Microsoft.NET.ILLink.targets",
+        "tools/net8.0/ILLink.Tasks.deps.json",
+        "tools/net8.0/ILLink.Tasks.dll",
+        "tools/net8.0/Mono.Cecil.Mdb.dll",
+        "tools/net8.0/Mono.Cecil.Pdb.dll",
+        "tools/net8.0/Mono.Cecil.Rocks.dll",
+        "tools/net8.0/Mono.Cecil.dll",
+        "tools/net8.0/Sdk/Sdk.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.targets",
+        "tools/net8.0/illink.deps.json",
+        "tools/net8.0/illink.dll",
+        "tools/net8.0/illink.runtimeconfig.json",
+        "useSharedDesignerContext.txt"
+      ]
+    },
     "Microsoft.Web.WebView2/1.0.2903.40": {
       "sha512": "THrzYAnJgE3+cNH+9Epr44XjoZoRELdVpXlWGPs6K9C9G6TqyDfVCeVAR/Er8ljLitIUX5gaSkPsy9wRhD1sgQ==",
       "type": "package",
@@ -1505,28 +1580,29 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows10.0.19041": [
+      "Microsoft.NET.ILLink.Tasks >= 8.0.18",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.26100.4654",
       "Microsoft.WindowsAppSDK >= 1.7.250606001"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\devad\\.nuget\\packages\\": {},
+    "C:\\Users\\robin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
+      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
       "projectName": "Cherry-Labs",
-      "projectPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
-      "packagesPath": "C:\\Users\\devad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devad\\Documents\\GitHub\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\obj\\",
+      "projectPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
+      "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\devad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1559,6 +1635,12 @@
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
         "dependencies": {
+          "Microsoft.NET.ILLink.Tasks": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.18, )",
+            "autoReferenced": true
+          },
           "Microsoft.Windows.SDK.BuildTools": {
             "target": "Package",
             "version": "[10.0.26100.4654, )"
@@ -1582,27 +1664,31 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-arm64",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x86",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -1610,15 +1696,15 @@
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-            "version": "[8.0.19, 8.0.19]"
+            "version": "[8.0.18, 8.0.18]"
           }
         ],
         "frameworkReferences": {
@@ -1629,7 +1715,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

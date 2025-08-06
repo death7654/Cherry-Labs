@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>CACTUS</Machine>
-    <WindowsUser>devad</WindowsUser>
+    <Machine>VAYNE</Machine>
+    <WindowsUser>robin</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>225b9dee-5f8c-40b5-b513-cca15c4641d1</PackageIdentityName>
     <PackageIdentityPublisher>CN=robin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>E4D414F6D090668EEE0D0020BD19437577939225B62A5F9DE6470490B9027666</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>36922C460E653BC249BB923489F000D9843DC3229962651140993020B2962653</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>225b9dee-5f8c-40b5-b513-cca15c4641d1_1.0.0.0_x64__wjytvj0ez98ye</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>225b9dee-5f8c-40b5-b513-cca15c4641d1_wjytvj0ez98ye!App</RegisteredUserModeAppID>
     <RegisteredPackageID>225b9dee-5f8c-40b5-b513-cca15c4641d1</RegisteredPackageID>
@@ -27,294 +27,294 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-06T08:23:45.792</Modified>
+      <Modified>2025-08-06T14:16:12.061</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\buildTransitive\..\\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\buildTransitive\..\\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
       <Modified>2024-11-10T08:58:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
       <Modified>2024-11-10T08:58:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib\Microsoft.Web.WebView2.Core.winmd">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib\Microsoft.Web.WebView2.Core.winmd">
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
       <Modified>2024-11-10T08:57:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\App.xbf">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2025-08-05T17:32:44.890</Modified>
+      <Modified>2025-08-05T15:07:06.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
-      <Modified>2025-08-06T08:23:44.537</Modified>
+      <Modified>2025-08-06T12:34:07.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.26100.0\Redist\Debug\x64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
       <Modified>2025-05-13T08:47:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-05T17:32:44.858</Modified>
+      <Modified>2025-08-05T14:22:04.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-08-06T08:02:14.776</Modified>
+      <Modified>2025-08-06T12:21:50.702</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
       <PackagePath>Cherry-Labs\Microsoft.Web.WebView2.Core.dll</PackagePath>
       <Modified>2024-11-10T08:58:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Graphics.Imaging.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Graphics.Imaging.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Graphics.Imaging.Projection.dll</PackagePath>
       <Modified>2025-05-13T21:41:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
       <Modified>2025-05-30T01:21:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Security.Authentication.OAuth.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Security.Authentication.OAuth.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Security.Authentication.OAuth.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
       <PackagePath>Cherry-Labs\Microsoft.WinUI.dll</PackagePath>
       <Modified>2025-06-06T05:07:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.ContentSafety.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.ContentSafety.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AI.ContentSafety.Projection.dll</PackagePath>
       <Modified>2025-05-13T21:41:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.Imaging.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.Imaging.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Imaging.Projection.dll</PackagePath>
       <Modified>2025-05-13T21:41:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Projection.dll</PackagePath>
       <Modified>2025-05-13T21:41:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.Text.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AI.Text.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Text.Projection.dll</PackagePath>
       <Modified>2025-05-13T21:41:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AppNotifications.Builder.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Background.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Background.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Background.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:50:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.BadgeNotifications.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.BadgeNotifications.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.BadgeNotifications.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Management.Deployment.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Management.Deployment.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.Management.Deployment.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Media.Capture.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Media.Capture.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.Media.Capture.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.Security.AccessControl.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Storage.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Storage.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.Storage.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.System.Power.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.System.Projection.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.Widgets.Projection.dll</PackagePath>
       <Modified>2025-05-22T21:56:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Cherry-Labs\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2025-06-05T21:50:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-arm64\native\WebView2Loader.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-arm64\native\WebView2Loader.dll">
       <PackagePath>Cherry-Labs\runtimes\win-arm64\native\WebView2Loader.dll</PackagePath>
       <Modified>2024-11-10T08:57:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x64\native\WebView2Loader.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x64\native\WebView2Loader.dll">
       <PackagePath>Cherry-Labs\runtimes\win-x64\native\WebView2Loader.dll</PackagePath>
       <Modified>2024-11-10T08:57:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x86\native\WebView2Loader.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x86\native\WebView2Loader.dll">
       <PackagePath>Cherry-Labs\runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
       <Modified>2024-11-10T08:57:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
       <PackagePath>Cherry-Labs\runtimes\win-arm64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
       <Modified>2025-06-05T21:49:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Cherry-Labs\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2025-06-05T21:49:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64ec\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64ec\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
       <PackagePath>Cherry-Labs\runtimes\win-arm64ec\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
       <Modified>2025-06-05T21:49:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64ec\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64ec\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Cherry-Labs\runtimes\win-arm64ec\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2025-06-05T21:49:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
       <PackagePath>Cherry-Labs\runtimes\win-x64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
       <Modified>2025-06-05T21:49:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Cherry-Labs\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2025-06-05T21:49:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x86\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x86\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
       <PackagePath>Cherry-Labs\runtimes\win-x86\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
       <Modified>2025-06-05T21:49:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Cherry-Labs\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2025-06-05T21:49:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.SDK.NET.dll</PackagePath>
       <Modified>2024-11-11T17:23:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\WinRT.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>Cherry-Labs\WinRT.Runtime.dll</PackagePath>
       <Modified>2024-11-11T17:23:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
       <Modified>2024-11-10T08:57:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.deps.json">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.deps.json">
       <PackagePath>Cherry-Labs\Cherry-Labs.deps.json</PackagePath>
-      <Modified>2025-08-06T08:02:12.590</Modified>
+      <Modified>2025-08-06T12:21:48.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xbf">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xbf">
       <PackagePath>Cherry-Labs\App.xbf</PackagePath>
-      <Modified>2025-08-05T17:32:44.890</Modified>
+      <Modified>2025-08-05T15:07:06.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>Cherry-Labs\MainWindow.xbf</PackagePath>
-      <Modified>2025-08-06T08:23:44.537</Modified>
+      <Modified>2025-08-06T12:34:07.542</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>Cherry-Labs\Cherry-Labs.exe</PackagePath>
-      <Modified>2025-08-06T08:23:45.410</Modified>
+      <Modified>2025-08-06T14:19:19.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.runtimeconfig.json">
       <PackagePath>Cherry-Labs\Cherry-Labs.runtimeconfig.json</PackagePath>
-      <Modified>2025-08-06T08:02:12.609</Modified>
+      <Modified>2025-08-06T12:21:48.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devad\Documents\GitHub\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.dll">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.dll">
       <PackagePath>Cherry-Labs\Cherry-Labs.dll</PackagePath>
-      <Modified>2025-08-06T08:23:45.406</Modified>
+      <Modified>2025-08-06T14:19:19.408</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix">
+    <ResolvedSDKReference Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix">
       <Name>Microsoft.WindowsAppRuntime.1.7</Name>
       <Version>7000.522.1444.0</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.7, MinVersion = 7000.522.1444.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
+      <AppxLocation>C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix">
+    <ResolvedSDKReference Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix">
       <Name>Microsoft.WindowsAppRuntime.1.7</Name>
       <Version>7000.522.1444.0</Version>
       <Architecture>win32</Architecture>
       <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.7, MinVersion = 7000.522.1444.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
+      <AppxLocation>C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.7.msix">
+    <ResolvedSDKReference Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.7.msix">
       <Name>Microsoft.WindowsAppRuntime.1.7</Name>
       <Version>7000.522.1444.0</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.7, MinVersion = 7000.522.1444.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
+      <AppxLocation>C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.7.msix">
+    <ResolvedSDKReference Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.7.msix">
       <Name>Microsoft.WindowsAppRuntime.1.7</Name>
       <Version>7000.522.1444.0</Version>
       <Architecture>arm64</Architecture>
       <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.7, MinVersion = 7000.522.1444.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\devad\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
+      <AppxLocation>C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.7.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

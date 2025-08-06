@@ -65,7 +65,7 @@
                                                       
                         Margin="5,0,0,0">
                         <FontIcon FontFamily="Segoe MDL2 Assets"
-                            Glyph="&#xE16C;" Margin="-5,0,4,0"
+                            Glyph="&#xE16C;" Margin="0,0,0,0" FontSize="16"
                        />
                     </Button>
 
