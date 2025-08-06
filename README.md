@@ -36,7 +36,7 @@ Cherry-Labs is a Windows desktop application built using WinUI 3 and .NET 8. It 
 
 ### Installation
 
-1. Download the latest release from releases [releases](https://github.com/death7654/Cherry-Labs/releases)
+1. Download the latest release from [releases](https://github.com/death7654/Cherry-Labs/releases)
 
 2. Generate a Gemini API Key
    - Go to [Google's AI Studio](https://aistudio.google.com/apikey)
