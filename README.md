@@ -12,7 +12,43 @@ Cherry-Labs is a Windows desktop application built using WinUI 3 and .NET 8. It 
 - Secure API key loading via system environment variable
 - Self-contained executable; no .NET installation required
 
+## Visual Representation 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/604cba48-a9fd-4c25-adba-44f868bfec06" />
+
+
+## Tech Stack Justification
+
+### Backend
+
+- **.NET 8**: Provides modern, high-performance APIs with full support for Windows 10+ desktop development.
+- **WinUI 3**: Microsoft's latest UI framework for building fluent Windows desktop apps.
+- **FFmpeg**: A fast and reliable tool for frame extraction without video decoding overhead.
+
+### AI Model
+
+- **Gemini 2.0 Flash (via Google Generative Language API)**:
+  - Chosen for its multi-modal capabilities and high performance with image understanding.
+  - Supports multi-turn chat with visual context.
+  - Allows integration using REST API with structured payloads.
+
+
 ## Getting Started
+
+### Installation
+
+1. Download the latest release from releases [releases](https://github.com/death7654/Cherry-Labs/releases)
+
+2. Generate a Gemini API Key
+   - Go to [Google's AI Studio](https://aistudio.google.com/apikey)
+   - Click on Create API Key, and copy its value
+   - Open the Run dialog (`Win + R`), type `SystemPropertiesAdvanced`, and press Enter.
+   - Click "Environment Variables..."
+   - Under "User variables", click "New" and add:
+     - Name: `GEMINI_API_KEY`
+     - Value: your Gemini API key
+4. install FFMPEG using winget `winget install ffmpeg`
+
+5. Run `Cherry-Labs.exe` to start the application.
 
 ### Requirements
 
@@ -21,19 +57,6 @@ Cherry-Labs is a Windows desktop application built using WinUI 3 and .NET 8. It 
 - Visual Studio 2022 or later (for development)
 - FFmpeg executable (included in distribution or download manually)
 
-### Installation
-
-1. Download the published folder containing `Cherry-Labs.exe` and related files.
-
-2. Set the `GEMINI_API_KEY` environment variable:
-   - Open the Run dialog (`Win + R`), type `SystemPropertiesAdvanced`, and press Enter.
-   - Click "Environment Variables..."
-   - Under "User variables", click "New" and add:
-     - Name: `GEMINI_API_KEY`
-     - Value: your Gemini API key
-3. install FFMPEG using winget `winget install ffmpeg`
-
-4. Run `Cherry-Labs.exe` to start the application.
 
 ## Building from Source
 
