@@ -44,26 +44,22 @@ namespace Cherry_Labs
         private List<(string role, string text)> contextStack = new();
 
         private ObservableCollection<string> ChatMessages = new();
+
+        private bool is_processing = false;
         public MainWindow()
         {
             InitializeComponent();
             ChatList.ItemsSource = ChatMessages;
+            this.Title = "Cherry Labs";
         }
 
-        // detect if key pressed is "ENTER"
-        private void ChatInput_KeyDown(object sender, KeyRoutedEventArgs e)
-        {
-            if (e.Key == Windows.System.VirtualKey.Enter)
-            {
-                // prevents a new line from being created
-                e.Handled = true;
-
-                // sends request to the request handling function
-                SendButton_Click(this, new RoutedEventArgs());
-            }
-        }
         private async void SendButton_Click(object sender, RoutedEventArgs e)
         {
+            if(is_processing)
+            {
+                ChatMessages.Add("Please wait while your video is being processed. Thank you");
+                return;
+            }
 
             // gets the value in the rich text box
             ChatInput.Document.GetText(Microsoft.UI.Text.TextGetOptions.None, out string user_input);
@@ -87,17 +83,6 @@ namespace Cherry_Labs
 
         private async Task<string> SendGeminiRequest(string user_input)
         {
-            string api_key = Environment.GetEnvironmentVariable("GEMINI_API_KEY")?.Trim();
-
-
-            // checks if key exists
-            if (string.IsNullOrWhiteSpace(api_key))
-            {
-                return "Gemini API Key has not been set. Please edit your system's environment variables and add key named \"GEMINI_API_KEY\" with its value being the API key.\nThank you.";
-            }
-
-            // link
-            string endpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}";
 
             // system-level instruction to keep context
             const string systemPrompt = "You are a helpful video assistant. When the user refers to 'video', 'it', or other vague terms, use the previous conversation history to resolve what they are talking about. Do not ask the user for clarification unless absolutely necessary. Always remember and refer to earlier messages when generating a response.";
@@ -133,22 +118,16 @@ namespace Cherry_Labs
             };
 
             string jsonBody = JsonSerializer.Serialize(request);
-            var content = new StringContent(jsonBody, Encoding.UTF8, "application/json");
 
-            using var client = new HttpClient();
-            var response = await client.PostAsync(endpoint, content);
-            string response_json = await response.Content.ReadAsStringAsync();
-
-            // extract assistant's reply
-            string assistantReply = ExtractGeminiReply(response_json);
+            string assistantReply = await SendRequest(jsonBody);
 
             // add new messages to context
             contextStack.Add(("user", user_input));
             contextStack.Add(("model", assistantReply));
 
             // limit stack size
-            if (contextStack.Count > 32)
-                contextStack = contextStack.Skip(contextStack.Count - 32).ToList();
+            if (contextStack.Count > 16)
+                contextStack = contextStack.Skip(contextStack.Count - 16).ToList();
 
             return assistantReply;
         }
@@ -178,48 +157,22 @@ namespace Cherry_Labs
             }
             if (!(await check_ffmpeg()))
             {
-                ChatMessages.Add("Ffmpeg is not install or not in path");
+                ChatMessages.Add("ffmpeg is not install or not in path");
                 return;
             }
             ChatMessages.Add("Your file is being processed \n\n ");
+            is_processing = true;
             await ProcessVideoWithStorageFileAsync(file);
-
+            is_processing = false;
 
             string selectedPath = file.Path;
-            ChatMessages.Add("Your file has been processed successfully with path \n\n " + selectedPath);
+            ChatMessages.Add("Your file has been processed successfully with path \n\n " + selectedPath + '\n');
 
 
             return;
         }
 
-        private async Task<bool> check_ffmpeg()
-        {
-            try
-            {
-                var process = new Process
-                {
-                    StartInfo = new ProcessStartInfo
-                    {
-                        FileName = "ffmpeg",
-                        Arguments = "-version",
-                        RedirectStandardOutput = true,
-                        RedirectStandardError = true,
-                        UseShellExecute = false,
-                        CreateNoWindow = true
-                    }
-                };
 
-                process.Start();
-                string output = process.StandardOutput.ReadToEnd();
-                process.WaitForExit();
-
-                return output.Contains("ffmpeg version");
-            }
-            catch
-            {
-                return false;
-            }
-        }
 
         public async Task<string> ProcessVideoWithStorageFileAsync(StorageFile videoFile)
         {
@@ -262,7 +215,6 @@ namespace Cherry_Labs
 
             // split into batches of 16 and send to Gemini
             List<string> contextResponses = new();
-            string apiKey = Environment.GetEnvironmentVariable("GEMINI_API_KEY")?.Trim();
 
             for (int i = 0; i < base64Images.Count; i += 16)
             {
@@ -272,7 +224,7 @@ namespace Cherry_Labs
             new {
                 role = "user",
                 parts = new[] {
-                    new { text = "Analyze these video frames and describe any important events or traffic violations. Focus on what you can visually detect." }
+                    new { text = "The following 16 images are sequential frames (at 4 FPS) from a video file. Please analyze them as a continuous scene and describe any notable events or traffic violations. These are part of a full video.\r\nThe following 16 images are sequential frames (at 4 FPS) from a video file. Please analyze them as a continuous scene and describe any notable events or traffic violations. These are part of a full video.\r\n Focus on what you can visually detect." }
                 }
             }
         };
@@ -295,15 +247,9 @@ namespace Cherry_Labs
 
                 var request = new { contents };
                 string json = JsonSerializer.Serialize(request);
+                string reply = await SendRequest(json);
 
-                using var client = new HttpClient();
-                var response = await client.PostAsync(
-                    $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={apiKey}",
-                    new StringContent(json, Encoding.UTF8, "application/json")
-                );
 
-                string responseJson = await response.Content.ReadAsStringAsync();
-                string reply = ExtractGeminiReply(responseJson);
                 contextResponses.Add(reply);
             }
 
@@ -311,11 +257,33 @@ namespace Cherry_Labs
             string fullContext = string.Join("\n", contextResponses);
                         contextStack.Add(("model", fullContext));
 
+
             return fullContext;
         }
 
 
         // helper functions
+
+        private async Task<string> SendRequest(string json)
+        {
+            string apiKey = Environment.GetEnvironmentVariable("GEMINI_API_KEY")?.Trim();
+
+            if (string.IsNullOrWhiteSpace(apiKey))
+            {
+                return "Gemini API Key has not been set. Please edit your system's environment variables and add key named \"GEMINI_API_KEY\" with its value being the API key.\nThank you.";
+            }
+
+
+            using var client = new HttpClient();
+            var response = await client.PostAsync(
+                $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={apiKey}",
+                new StringContent(json, Encoding.UTF8, "application/json")
+            );
+
+            string responseJson = await response.Content.ReadAsStringAsync();
+            string reply = ExtractGeminiReply(responseJson);
+            return reply;
+        }
 
         // used to extract the text data and not the other data
         private string ExtractGeminiReply(string json)
@@ -338,6 +306,34 @@ namespace Cherry_Labs
 
 
 
+        }
+        private async Task<bool> check_ffmpeg()
+        {
+            try
+            {
+                var process = new Process
+                {
+                    StartInfo = new ProcessStartInfo
+                    {
+                        FileName = "ffmpeg",
+                        Arguments = "-version",
+                        RedirectStandardOutput = true,
+                        RedirectStandardError = true,
+                        UseShellExecute = false,
+                        CreateNoWindow = true
+                    }
+                };
+
+                process.Start();
+                string output = process.StandardOutput.ReadToEnd();
+                process.WaitForExit();
+
+                return output.Contains("ffmpeg version");
+            }
+            catch
+            {
+                return false;
+            }
         }
 
 

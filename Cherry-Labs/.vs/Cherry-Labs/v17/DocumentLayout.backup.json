@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{06CF7116-A7A2-40E7-86B0-8E7333DC2C30}|Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj|solutionrelative:cherry-labs\\cherry-labs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06CF7116-A7A2-40E7-86B0-8E7333DC2C30}|Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj|c:\\users\\robin\\onedrive\\\u6587\u6863\\robinson\\hobbies\\coding\\cherry-labs\\cherry-labs\\cherry-labs\\cherry-labs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06CF7116-A7A2-40E7-86B0-8E7333DC2C30}|Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj|solutionrelative:cherry-labs\\cherry-labs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06CF7116-A7A2-40E7-86B0-8E7333DC2C30}|Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj|c:\\users\\robin\\onedrive\\\u6587\u6863\\robinson\\hobbies\\coding\\cherry-labs\\cherry-labs\\cherry-labs\\cherry-labs\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{06CF7116-A7A2-40E7-86B0-8E7333DC2C30}|Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj|solutionrelative:cherry-labs\\cherry-labs\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
@@ -22,20 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\robin\\OneDrive\\\u6587\u6863\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Cherry-Labs\\Cherry-Labs\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\robin\\OneDrive\\\u6587\u6863\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\MainWindow.xaml",
-              "RelativeToolTip": "Cherry-Labs\\Cherry-Labs\\MainWindow.xaml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-06T08:06:14.885Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,14 +28,14 @@
               "RelativeDocumentMoniker": "Cherry-Labs\\Cherry-Labs\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\robin\\OneDrive\\\u6587\u6863\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\MainWindow.xaml.cs",
               "RelativeToolTip": "Cherry-Labs\\Cherry-Labs\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAiwG4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAuwKgAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T14:59:42.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\robin\\OneDrive\\\u6587\u6863\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\app.manifest",
               "RelativeDocumentMoniker": "Cherry-Labs\\Cherry-Labs\\app.manifest",

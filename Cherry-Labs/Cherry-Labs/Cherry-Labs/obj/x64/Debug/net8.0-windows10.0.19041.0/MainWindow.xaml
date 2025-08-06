@@ -50,7 +50,6 @@
                     </Grid.ColumnDefinitions>
 
                     <RichEditBox x:ConnectionId='3' x:Name="ChatInput"
-                                                         
                  Grid.Column="0"
                  PlaceholderText="Enter your message..."
                  VerticalAlignment="Center"

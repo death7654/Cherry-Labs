@@ -50,7 +50,6 @@
                     </Grid.ColumnDefinitions>
 
                     <RichEditBox x:Name="ChatInput"
-                              KeyDown="ChatInput_KeyDown"
                  Grid.Column="0"
                  PlaceholderText="Enter your message..."
                  VerticalAlignment="Center"
