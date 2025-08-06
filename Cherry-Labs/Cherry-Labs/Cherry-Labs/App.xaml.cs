@@ -35,6 +35,8 @@ namespace Cherry_Labs
         public App()
         {
             InitializeComponent();
+            Environment.SetEnvironmentVariable("MICROSOFT_WINDOWSAPPRUNTIME_BASE_DIRECTORY", AppContext.BaseDirectory);
+
         }
 
         /// <summary>

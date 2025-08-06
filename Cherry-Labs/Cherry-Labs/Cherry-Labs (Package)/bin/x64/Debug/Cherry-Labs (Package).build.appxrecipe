@@ -34,12 +34,6 @@
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib\Microsoft.Web.WebView2.Core.winmd">
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\App.xbf">
-      <PackagePath>App.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
-      <PackagePath>MainWindow.xbf</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.26100.0\Redist\Debug\x64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
@@ -72,6 +66,288 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Foundation.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Foundation.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Foundation.winmd">
+      <PackagePath>Microsoft.Foundation.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.Imaging.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Graphics.Imaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.Imaging.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Graphics.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.Imaging.winmd">
+      <PackagePath>Microsoft.Graphics.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.ImagingInternal.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Graphics.ImagingInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.ImagingInternal.winmd">
+      <PackagePath>Microsoft.Graphics.ImagingInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.Internal.Imaging.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Graphics.Internal.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.Internal.Imaging.winmd">
+      <PackagePath>Microsoft.Graphics.Internal.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Graphics.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.winmd">
+      <PackagePath>Microsoft.Graphics.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Security.Authentication.OAuth.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Security.Authentication.OAuth.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Security.Authentication.OAuth.winmd">
+      <PackagePath>Microsoft.Security.Authentication.OAuth.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Text.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Text.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Text.winmd">
+      <PackagePath>Microsoft.UI.Text.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.winmd">
+      <PackagePath>Microsoft.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.ui.xaml.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Xaml.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.ContentModerationInternal.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.ContentModerationInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.ContentModerationInternal.winmd">
+      <PackagePath>Microsoft.Windows.AI.ContentModerationInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.ContentSafety.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.ContentSafety.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.ContentSafety.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.ContentSafety.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.ContentSafety.winmd">
+      <PackagePath>Microsoft.Windows.AI.ContentSafety.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Foundation.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Foundation.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Foundation.winmd">
+      <PackagePath>Microsoft.Windows.AI.Foundation.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.FoundationInternal.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.FoundationInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.FoundationInternal.winmd">
+      <PackagePath>Microsoft.Windows.AI.FoundationInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.GenerativeInternal.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.GenerativeInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.GenerativeInternal.winmd">
+      <PackagePath>Microsoft.Windows.AI.GenerativeInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Imaging.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Imaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Imaging.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Imaging.winmd">
+      <PackagePath>Microsoft.Windows.AI.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Text.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Text.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Text.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.Text.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.Text.winmd">
+      <PackagePath>Microsoft.Windows.AI.Text.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AI.winmd">
+      <PackagePath>Microsoft.Windows.AI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.winmd">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Background.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Background.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Background.winmd">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Background.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.DynamicDependency.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.DynamicDependency.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.DynamicDependency.winmd">
+      <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Resources.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Resources.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.Resources.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.Resources.winmd">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Resources.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd">
+      <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AppLifecycle.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AppLifecycle.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AppLifecycle.winmd">
+      <PackagePath>Microsoft.Windows.AppLifecycle.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AppNotifications.Builder.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AppNotifications.Builder.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AppNotifications.Builder.winmd">
+      <PackagePath>Microsoft.Windows.AppNotifications.Builder.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AppNotifications.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.AppNotifications.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.AppNotifications.winmd">
+      <PackagePath>Microsoft.Windows.AppNotifications.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.BadgeNotifications.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.BadgeNotifications.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.BadgeNotifications.winmd">
+      <PackagePath>Microsoft.Windows.BadgeNotifications.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Globalization.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Globalization.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Globalization.winmd">
+      <PackagePath>Microsoft.Windows.Globalization.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Internal.Vision.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Internal.Vision.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Internal.Vision.winmd">
+      <PackagePath>Microsoft.Windows.Internal.Vision.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Management.Deployment.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Management.Deployment.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Management.Deployment.winmd">
+      <PackagePath>Microsoft.Windows.Management.Deployment.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Media.Capture.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Media.Capture.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Media.Capture.winmd">
+      <PackagePath>Microsoft.Windows.Media.Capture.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Private.Workloads.SessionManager.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Private.Workloads.SessionManager.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Private.Workloads.SessionManager.winmd">
+      <PackagePath>Microsoft.Windows.Private.Workloads.SessionManager.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.PrivateCommon.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.PrivateCommon.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.PrivateCommon.winmd">
+      <PackagePath>Microsoft.Windows.PrivateCommon.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.PushNotifications.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.PushNotifications.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.PushNotifications.winmd">
+      <PackagePath>Microsoft.Windows.PushNotifications.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Security.AccessControl.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Security.AccessControl.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Security.AccessControl.winmd">
+      <PackagePath>Microsoft.Windows.Security.AccessControl.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.SemanticSearch.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.SemanticSearch.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.SemanticSearch.winmd">
+      <PackagePath>Microsoft.Windows.SemanticSearch.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Storage.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Storage.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Storage.winmd">
+      <PackagePath>Microsoft.Windows.Storage.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.System.Power.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.System.Power.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.System.Power.winmd">
+      <PackagePath>Microsoft.Windows.System.Power.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.System.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.System.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.System.winmd">
+      <PackagePath>Microsoft.Windows.System.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Vision.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Vision.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Vision.winmd">
+      <PackagePath>Microsoft.Windows.Vision.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.VisionInternal.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.VisionInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.VisionInternal.winmd">
+      <PackagePath>Microsoft.Windows.VisionInternal.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Widgets.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Widgets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Widgets.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Widgets.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Widgets.winmd">
+      <PackagePath>Microsoft.Windows.Widgets.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Workloads.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Workloads.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Workloads.winmd">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Workloads.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Workloads.winmd">
+      <PackagePath>Microsoft.Windows.Workloads.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
       <PackagePath>Cherry-Labs\Microsoft.Web.WebView2.Core.dll</PackagePath>
@@ -151,38 +427,557 @@
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Cherry-Labs\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-arm64\native\WebView2Loader.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-arm64\native\WebView2Loader.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x64\native\WebView2Loader.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-x64\native\WebView2Loader.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\runtimes\win-x86\native\WebView2Loader.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-arm64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64ec\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-arm64ec\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-arm64ec\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-arm64ec\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-x64\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
+      <PackagePath>Cherry-Labs\WebView2Loader.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <PackagePath>Cherry-Labs\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x86\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-x86\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
+      <PackagePath>Cherry-Labs\Microsoft.CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
-      <PackagePath>Cherry-Labs\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\Microsoft.VisualBasic.Core.dll">
+      <PackagePath>Cherry-Labs\Microsoft.VisualBasic.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\Microsoft.VisualBasic.dll">
+      <PackagePath>Cherry-Labs\Microsoft.VisualBasic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Win32.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\Microsoft.Win32.Registry.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Win32.Registry.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.AppContext.dll">
+      <PackagePath>Cherry-Labs\System.AppContext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Buffers.dll">
+      <PackagePath>Cherry-Labs\System.Buffers.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Collections.Concurrent.dll">
+      <PackagePath>Cherry-Labs\System.Collections.Concurrent.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Collections.Immutable.dll">
+      <PackagePath>Cherry-Labs\System.Collections.Immutable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Collections.NonGeneric.dll">
+      <PackagePath>Cherry-Labs\System.Collections.NonGeneric.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Collections.Specialized.dll">
+      <PackagePath>Cherry-Labs\System.Collections.Specialized.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Collections.dll">
+      <PackagePath>Cherry-Labs\System.Collections.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ComponentModel.Annotations.dll">
+      <PackagePath>Cherry-Labs\System.ComponentModel.Annotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>Cherry-Labs\System.ComponentModel.DataAnnotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>Cherry-Labs\System.ComponentModel.EventBasedAsync.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ComponentModel.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.ComponentModel.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ComponentModel.TypeConverter.dll">
+      <PackagePath>Cherry-Labs\System.ComponentModel.TypeConverter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ComponentModel.dll">
+      <PackagePath>Cherry-Labs\System.ComponentModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Configuration.dll">
+      <PackagePath>Cherry-Labs\System.Configuration.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Console.dll">
+      <PackagePath>Cherry-Labs\System.Console.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Core.dll">
+      <PackagePath>Cherry-Labs\System.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Data.Common.dll">
+      <PackagePath>Cherry-Labs\System.Data.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Data.DataSetExtensions.dll">
+      <PackagePath>Cherry-Labs\System.Data.DataSetExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Data.dll">
+      <PackagePath>Cherry-Labs\System.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.Contracts.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.Contracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.Debug.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.Debug.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.DiagnosticSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.FileVersionInfo.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.FileVersionInfo.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.Process.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.Process.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.StackTrace.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.StackTrace.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.TextWriterTraceListener.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.TextWriterTraceListener.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.Tools.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.Tools.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.TraceSource.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.TraceSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Diagnostics.Tracing.dll">
+      <PackagePath>Cherry-Labs\System.Diagnostics.Tracing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Drawing.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.Drawing.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Drawing.dll">
+      <PackagePath>Cherry-Labs\System.Drawing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Dynamic.Runtime.dll">
+      <PackagePath>Cherry-Labs\System.Dynamic.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Formats.Asn1.dll">
+      <PackagePath>Cherry-Labs\System.Formats.Asn1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Formats.Tar.dll">
+      <PackagePath>Cherry-Labs\System.Formats.Tar.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Globalization.Calendars.dll">
+      <PackagePath>Cherry-Labs\System.Globalization.Calendars.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Globalization.Extensions.dll">
+      <PackagePath>Cherry-Labs\System.Globalization.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Globalization.dll">
+      <PackagePath>Cherry-Labs\System.Globalization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.Compression.Brotli.dll">
+      <PackagePath>Cherry-Labs\System.IO.Compression.Brotli.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.Compression.FileSystem.dll">
+      <PackagePath>Cherry-Labs\System.IO.Compression.FileSystem.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.Compression.ZipFile.dll">
+      <PackagePath>Cherry-Labs\System.IO.Compression.ZipFile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.Compression.dll">
+      <PackagePath>Cherry-Labs\System.IO.Compression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.FileSystem.AccessControl.dll">
+      <PackagePath>Cherry-Labs\System.IO.FileSystem.AccessControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.FileSystem.DriveInfo.dll">
+      <PackagePath>Cherry-Labs\System.IO.FileSystem.DriveInfo.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.IO.FileSystem.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.FileSystem.Watcher.dll">
+      <PackagePath>Cherry-Labs\System.IO.FileSystem.Watcher.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.FileSystem.dll">
+      <PackagePath>Cherry-Labs\System.IO.FileSystem.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.IsolatedStorage.dll">
+      <PackagePath>Cherry-Labs\System.IO.IsolatedStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.MemoryMappedFiles.dll">
+      <PackagePath>Cherry-Labs\System.IO.MemoryMappedFiles.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.Pipes.AccessControl.dll">
+      <PackagePath>Cherry-Labs\System.IO.Pipes.AccessControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.Pipes.dll">
+      <PackagePath>Cherry-Labs\System.IO.Pipes.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>Cherry-Labs\System.IO.UnmanagedMemoryStream.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.IO.dll">
+      <PackagePath>Cherry-Labs\System.IO.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Linq.Expressions.dll">
+      <PackagePath>Cherry-Labs\System.Linq.Expressions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Linq.Parallel.dll">
+      <PackagePath>Cherry-Labs\System.Linq.Parallel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Linq.Queryable.dll">
+      <PackagePath>Cherry-Labs\System.Linq.Queryable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Linq.dll">
+      <PackagePath>Cherry-Labs\System.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Memory.dll">
+      <PackagePath>Cherry-Labs\System.Memory.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Http.Json.dll">
+      <PackagePath>Cherry-Labs\System.Net.Http.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Http.dll">
+      <PackagePath>Cherry-Labs\System.Net.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.HttpListener.dll">
+      <PackagePath>Cherry-Labs\System.Net.HttpListener.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Mail.dll">
+      <PackagePath>Cherry-Labs\System.Net.Mail.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.NameResolution.dll">
+      <PackagePath>Cherry-Labs\System.Net.NameResolution.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.NetworkInformation.dll">
+      <PackagePath>Cherry-Labs\System.Net.NetworkInformation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Ping.dll">
+      <PackagePath>Cherry-Labs\System.Net.Ping.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.Net.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Quic.dll">
+      <PackagePath>Cherry-Labs\System.Net.Quic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Requests.dll">
+      <PackagePath>Cherry-Labs\System.Net.Requests.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Security.dll">
+      <PackagePath>Cherry-Labs\System.Net.Security.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.ServicePoint.dll">
+      <PackagePath>Cherry-Labs\System.Net.ServicePoint.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.Sockets.dll">
+      <PackagePath>Cherry-Labs\System.Net.Sockets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.WebClient.dll">
+      <PackagePath>Cherry-Labs\System.Net.WebClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.WebHeaderCollection.dll">
+      <PackagePath>Cherry-Labs\System.Net.WebHeaderCollection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.WebProxy.dll">
+      <PackagePath>Cherry-Labs\System.Net.WebProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.WebSockets.Client.dll">
+      <PackagePath>Cherry-Labs\System.Net.WebSockets.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.WebSockets.dll">
+      <PackagePath>Cherry-Labs\System.Net.WebSockets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Net.dll">
+      <PackagePath>Cherry-Labs\System.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Numerics.Vectors.dll">
+      <PackagePath>Cherry-Labs\System.Numerics.Vectors.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Numerics.dll">
+      <PackagePath>Cherry-Labs\System.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ObjectModel.dll">
+      <PackagePath>Cherry-Labs\System.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Private.CoreLib.dll">
+      <PackagePath>Cherry-Labs\System.Private.CoreLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Private.DataContractSerialization.dll">
+      <PackagePath>Cherry-Labs\System.Private.DataContractSerialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Private.Uri.dll">
+      <PackagePath>Cherry-Labs\System.Private.Uri.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Private.Xml.Linq.dll">
+      <PackagePath>Cherry-Labs\System.Private.Xml.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Private.Xml.dll">
+      <PackagePath>Cherry-Labs\System.Private.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.DispatchProxy.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.DispatchProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.Emit.ILGeneration.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.Emit.Lightweight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.Emit.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.Emit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.Extensions.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.Metadata.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.Metadata.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.TypeExtensions.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.TypeExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Reflection.dll">
+      <PackagePath>Cherry-Labs\System.Reflection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Resources.Reader.dll">
+      <PackagePath>Cherry-Labs\System.Resources.Reader.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Resources.ResourceManager.dll">
+      <PackagePath>Cherry-Labs\System.Resources.ResourceManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Resources.Writer.dll">
+      <PackagePath>Cherry-Labs\System.Resources.Writer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.CompilerServices.VisualC.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.CompilerServices.VisualC.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Extensions.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Handles.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Handles.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.InteropServices.JavaScript.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.InteropServices.JavaScript.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.InteropServices.RuntimeInformation.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.InteropServices.RuntimeInformation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.InteropServices.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.InteropServices.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Intrinsics.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Intrinsics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Loader.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Loader.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Numerics.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Serialization.Formatters.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Serialization.Formatters.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Serialization.Json.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Serialization.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Serialization.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Serialization.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.Serialization.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.Serialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Runtime.dll">
+      <PackagePath>Cherry-Labs\System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.AccessControl.dll">
+      <PackagePath>Cherry-Labs\System.Security.AccessControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Claims.dll">
+      <PackagePath>Cherry-Labs\System.Security.Claims.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.Algorithms.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.Algorithms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.Cng.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.Cng.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.Csp.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.Csp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.Encoding.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.Encoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.OpenSsl.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.OpenSsl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.Primitives.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.X509Certificates.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.X509Certificates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Cryptography.dll">
+      <PackagePath>Cherry-Labs\System.Security.Cryptography.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Principal.Windows.dll">
+      <PackagePath>Cherry-Labs\System.Security.Principal.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.Principal.dll">
+      <PackagePath>Cherry-Labs\System.Security.Principal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.SecureString.dll">
+      <PackagePath>Cherry-Labs\System.Security.SecureString.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Security.dll">
+      <PackagePath>Cherry-Labs\System.Security.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ServiceModel.Web.dll">
+      <PackagePath>Cherry-Labs\System.ServiceModel.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ServiceProcess.dll">
+      <PackagePath>Cherry-Labs\System.ServiceProcess.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Text.Encoding.CodePages.dll">
+      <PackagePath>Cherry-Labs\System.Text.Encoding.CodePages.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Text.Encoding.Extensions.dll">
+      <PackagePath>Cherry-Labs\System.Text.Encoding.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Text.Encoding.dll">
+      <PackagePath>Cherry-Labs\System.Text.Encoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Text.Encodings.Web.dll">
+      <PackagePath>Cherry-Labs\System.Text.Encodings.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Text.Json.dll">
+      <PackagePath>Cherry-Labs\System.Text.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Text.RegularExpressions.dll">
+      <PackagePath>Cherry-Labs\System.Text.RegularExpressions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Channels.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Channels.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Overlapped.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Overlapped.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Tasks.Dataflow.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Tasks.Extensions.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Tasks.Parallel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Tasks.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Thread.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Thread.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.ThreadPool.dll">
+      <PackagePath>Cherry-Labs\System.Threading.ThreadPool.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.Timer.dll">
+      <PackagePath>Cherry-Labs\System.Threading.Timer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Threading.dll">
+      <PackagePath>Cherry-Labs\System.Threading.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Transactions.Local.dll">
+      <PackagePath>Cherry-Labs\System.Transactions.Local.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Transactions.dll">
+      <PackagePath>Cherry-Labs\System.Transactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.ValueTuple.dll">
+      <PackagePath>Cherry-Labs\System.ValueTuple.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Web.HttpUtility.dll">
+      <PackagePath>Cherry-Labs\System.Web.HttpUtility.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Web.dll">
+      <PackagePath>Cherry-Labs\System.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Windows.dll">
+      <PackagePath>Cherry-Labs\System.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.Linq.dll">
+      <PackagePath>Cherry-Labs\System.Xml.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.ReaderWriter.dll">
+      <PackagePath>Cherry-Labs\System.Xml.ReaderWriter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.Serialization.dll">
+      <PackagePath>Cherry-Labs\System.Xml.Serialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.XDocument.dll">
+      <PackagePath>Cherry-Labs\System.Xml.XDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.XPath.XDocument.dll">
+      <PackagePath>Cherry-Labs\System.Xml.XPath.XDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.XPath.dll">
+      <PackagePath>Cherry-Labs\System.Xml.XPath.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.XmlDocument.dll">
+      <PackagePath>Cherry-Labs\System.Xml.XmlDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.XmlSerializer.dll">
+      <PackagePath>Cherry-Labs\System.Xml.XmlSerializer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.Xml.dll">
+      <PackagePath>Cherry-Labs\System.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\System.dll">
+      <PackagePath>Cherry-Labs\System.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\WindowsBase.dll">
+      <PackagePath>Cherry-Labs\WindowsBase.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\mscorlib.dll">
+      <PackagePath>Cherry-Labs\mscorlib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\lib\net8.0\netstandard.dll">
+      <PackagePath>Cherry-Labs\netstandard.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
+      <PackagePath>Cherry-Labs\Microsoft.DiaSymReader.Native.amd64.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\System.IO.Compression.Native.dll">
+      <PackagePath>Cherry-Labs\System.IO.Compression.Native.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\clretwrc.dll">
+      <PackagePath>Cherry-Labs\clretwrc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\clrgc.dll">
+      <PackagePath>Cherry-Labs\clrgc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\clrjit.dll">
+      <PackagePath>Cherry-Labs\clrjit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\coreclr.dll">
+      <PackagePath>Cherry-Labs\coreclr.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\createdump.exe">
+      <PackagePath>Cherry-Labs\createdump.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\hostfxr.dll">
+      <PackagePath>Cherry-Labs\hostfxr.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\hostpolicy.dll">
+      <PackagePath>Cherry-Labs\hostpolicy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\mscordaccore.dll">
+      <PackagePath>Cherry-Labs\mscordaccore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\mscordaccore_amd64_amd64_8.0.1825.31117.dll">
+      <PackagePath>Cherry-Labs\mscordaccore_amd64_amd64_8.0.1825.31117.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\mscordbi.dll">
+      <PackagePath>Cherry-Labs\mscordbi.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\mscorrc.dll">
+      <PackagePath>Cherry-Labs\mscorrc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.18\runtimes\win-x64\native\msquic.dll">
+      <PackagePath>Cherry-Labs\msquic.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Cherry-Labs\Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -193,26 +988,985 @@
     <AppxPackagedFile Include="C:\Users\robin\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
       <PackagePath>Cherry-Labs\Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.deps.json">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.pri">
+      <PackagePath>Cherry-Labs\Microsoft.UI.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml.Controls.pri">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Xaml.Controls.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Cherry-Labs.deps.json">
       <PackagePath>Cherry-Labs\Cherry-Labs.deps.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xbf">
-      <PackagePath>Cherry-Labs\App.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\CoreMessagingXP.dll">
+      <PackagePath>Cherry-Labs\CoreMessagingXP.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
-      <PackagePath>Cherry-Labs\MainWindow.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\dcompi.dll">
+      <PackagePath>Cherry-Labs\dcompi.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\dwmcorei.dll">
+      <PackagePath>Cherry-Labs\dwmcorei.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\DwmSceneI.dll">
+      <PackagePath>Cherry-Labs\DwmSceneI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\DWriteCore.dll">
+      <PackagePath>Cherry-Labs\DWriteCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\marshal.dll">
+      <PackagePath>Cherry-Labs\marshal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.DirectManipulation.dll">
+      <PackagePath>Cherry-Labs\Microsoft.DirectManipulation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Graphics.Display.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Graphics.Display.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.InputStateManager.dll">
+      <PackagePath>Cherry-Labs\Microsoft.InputStateManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Internal.FrameworkUdk.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Internal.FrameworkUdk.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Composition.OSSupport.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Composition.OSSupport.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Input.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Input.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Windowing.Core.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Windowing.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Windowing.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Windowing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml.Controls.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Xaml.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml.Internal.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Xaml.Internal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml.Phone.dll">
+      <PackagePath>Cherry-Labs\Microsoft.UI.Xaml.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.ui.xaml.resources.19h1.dll">
+      <PackagePath>Cherry-Labs\Microsoft.ui.xaml.resources.19h1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.ui.xaml.resources.common.dll">
+      <PackagePath>Cherry-Labs\Microsoft.ui.xaml.resources.common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Workloads.Resources.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Workloads.Resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.Windows.Workloads.Resources_ec.dll">
+      <PackagePath>Cherry-Labs\Microsoft.Windows.Workloads.Resources_ec.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.WindowsAppRuntime.dll">
+      <PackagePath>Cherry-Labs\Microsoft.WindowsAppRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.WindowsAppRuntime.Insights.Resource.dll">
+      <PackagePath>Cherry-Labs\Microsoft.WindowsAppRuntime.Insights.Resource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\MRM.dll">
+      <PackagePath>Cherry-Labs\MRM.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\NpuDetect\NPUDetect.dll">
+      <PackagePath>Cherry-Labs\NpuDetect\NPUDetect.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\PushNotificationsLongRunningTask.ProxyStub.dll">
+      <PackagePath>Cherry-Labs\PushNotificationsLongRunningTask.ProxyStub.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\SessionHandleIPCProxyStub.dll">
+      <PackagePath>Cherry-Labs\SessionHandleIPCProxyStub.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\WindowsAppRuntime.DeploymentExtensions.OneCore.dll">
+      <PackagePath>Cherry-Labs\WindowsAppRuntime.DeploymentExtensions.OneCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\WindowsAppSdk.AppxDeploymentExtensions.Desktop-EventLog-Instrumentation.dll">
+      <PackagePath>Cherry-Labs\WindowsAppSdk.AppxDeploymentExtensions.Desktop-EventLog-Instrumentation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\WindowsAppSdk.AppxDeploymentExtensions.Desktop.dll">
+      <PackagePath>Cherry-Labs\WindowsAppSdk.AppxDeploymentExtensions.Desktop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\WinUIEdit.dll">
+      <PackagePath>Cherry-Labs\WinUIEdit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\wuceffectsi.dll">
+      <PackagePath>Cherry-Labs\wuceffectsi.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\workloads.365.json">
+      <PackagePath>Cherry-Labs\workloads.365.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\workloads.json">
+      <PackagePath>Cherry-Labs\workloads.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\workloads.lnl.json">
+      <PackagePath>Cherry-Labs\workloads.lnl.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\workloads.qnn.json">
+      <PackagePath>Cherry-Labs\workloads.qnn.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\workloads.stx.json">
+      <PackagePath>Cherry-Labs\workloads.stx.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\RestartAgent.exe">
+      <PackagePath>Cherry-Labs\RestartAgent.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml\Assets\map.html">
+      <PackagePath>Microsoft.UI.Xaml\Assets\map.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\af-ZA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\af-ZA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\af-ZA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\af-ZA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\am-ET\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\am-ET\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\am-ET\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\am-ET\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ar-SA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ar-SA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ar-SA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ar-SA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\as-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\as-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\as-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\as-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\az-Latn-AZ\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\az-Latn-AZ\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\az-Latn-AZ\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\az-Latn-AZ\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\bg-BG\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\bg-BG\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\bg-BG\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\bg-BG\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\bn-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\bn-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\bn-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\bn-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\bs-Latn-BA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\bs-Latn-BA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\bs-Latn-BA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\bs-Latn-BA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ca-Es-VALENCIA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ca-Es-VALENCIA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ca-Es-VALENCIA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ca-Es-VALENCIA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ca-ES\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ca-ES\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ca-ES\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ca-ES\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\cs-CZ\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\cs-CZ\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\cs-CZ\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\cs-CZ\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\cy-GB\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\cy-GB\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\cy-GB\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\cy-GB\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\da-DK\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\da-DK\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\da-DK\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\da-DK\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\de-DE\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\de-DE\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\de-DE\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\de-DE\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\el-GR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\el-GR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\el-GR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\el-GR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\en-GB\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\en-GB\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\en-GB\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\en-GB\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\en-us\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\en-us\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\en-us\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\en-us\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\es-ES\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\es-ES\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\es-ES\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\es-ES\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\es-MX\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\es-MX\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\es-MX\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\es-MX\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\et-EE\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\et-EE\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\et-EE\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\et-EE\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\eu-ES\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\eu-ES\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\eu-ES\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\eu-ES\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fa-IR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\fa-IR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fa-IR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\fa-IR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fi-FI\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\fi-FI\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fi-FI\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\fi-FI\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fil-PH\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\fil-PH\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fil-PH\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\fil-PH\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fr-CA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\fr-CA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fr-CA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\fr-CA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fr-FR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\fr-FR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\fr-FR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\fr-FR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ga-IE\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ga-IE\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ga-IE\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ga-IE\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\gd-gb\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\gd-gb\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\gd-gb\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\gd-gb\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\gl-ES\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\gl-ES\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\gl-ES\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\gl-ES\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\gu-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\gu-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\gu-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\gu-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\he-IL\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\he-IL\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\he-IL\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\he-IL\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hi-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\hi-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hi-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\hi-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hr-HR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\hr-HR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hr-HR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\hr-HR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hu-HU\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\hu-HU\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hu-HU\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\hu-HU\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hy-AM\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\hy-AM\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\hy-AM\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\hy-AM\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\id-ID\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\id-ID\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\id-ID\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\id-ID\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\is-IS\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\is-IS\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\is-IS\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\is-IS\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\it-IT\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\it-IT\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\it-IT\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\it-IT\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ja-JP\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ja-JP\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ja-JP\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ja-JP\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ka-GE\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ka-GE\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ka-GE\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ka-GE\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\kk-KZ\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\kk-KZ\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\kk-KZ\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\kk-KZ\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\km-KH\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\km-KH\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\km-KH\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\km-KH\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\kn-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\kn-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\kn-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\kn-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ko-KR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ko-KR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ko-KR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ko-KR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\kok-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\kok-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\kok-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\kok-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lb-LU\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\lb-LU\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lb-LU\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\lb-LU\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lo-LA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\lo-LA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lo-LA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\lo-LA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lt-LT\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\lt-LT\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lt-LT\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\lt-LT\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lv-LV\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\lv-LV\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\lv-LV\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\lv-LV\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mi-NZ\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\mi-NZ\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mi-NZ\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\mi-NZ\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mk-MK\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\mk-MK\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mk-MK\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\mk-MK\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ml-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ml-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ml-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ml-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mr-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\mr-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mr-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\mr-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ms-MY\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ms-MY\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ms-MY\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ms-MY\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mt-MT\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\mt-MT\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\mt-MT\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\mt-MT\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\nb-NO\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\nb-NO\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\nb-NO\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\nb-NO\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ne-NP\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ne-NP\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ne-NP\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ne-NP\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\nl-NL\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\nl-NL\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\nl-NL\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\nl-NL\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\nn-NO\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\nn-NO\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\nn-NO\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\nn-NO\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\or-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\or-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\or-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\or-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pa-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\pa-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pa-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\pa-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pl-PL\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\pl-PL\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pl-PL\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\pl-PL\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pt-BR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\pt-BR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pt-BR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\pt-BR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pt-PT\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\pt-PT\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\pt-PT\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\pt-PT\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\quz-PE\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\quz-PE\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\quz-PE\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\quz-PE\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ro-RO\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ro-RO\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ro-RO\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ro-RO\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ru-RU\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ru-RU\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ru-RU\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ru-RU\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sk-SK\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sk-SK\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sk-SK\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sk-SK\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sl-SI\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sl-SI\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sl-SI\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sl-SI\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sq-AL\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sq-AL\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sq-AL\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sq-AL\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sr-Cyrl-BA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sr-Cyrl-BA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sr-Cyrl-BA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sr-Cyrl-BA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sr-Cyrl-RS\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sr-Cyrl-RS\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sr-Cyrl-RS\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sr-Cyrl-RS\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sr-Latn-RS\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sr-Latn-RS\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sr-Latn-RS\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sr-Latn-RS\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sv-SE\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\sv-SE\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\sv-SE\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\sv-SE\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ta-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ta-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ta-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ta-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\te-IN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\te-IN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\te-IN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\te-IN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\th-TH\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\th-TH\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\th-TH\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\th-TH\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\tr-TR\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\tr-TR\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\tr-TR\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\tr-TR\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\tt-RU\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\tt-RU\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\tt-RU\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\tt-RU\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ug-CN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ug-CN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ug-CN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ug-CN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\uk-UA\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\uk-UA\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\uk-UA\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\uk-UA\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ur-PK\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\ur-PK\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\ur-PK\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\ur-PK\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\uz-Latn-UZ\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\uz-Latn-UZ\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\uz-Latn-UZ\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\uz-Latn-UZ\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\vi-VN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\vi-VN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\vi-VN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\vi-VN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\zh-CN\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\zh-CN\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\zh-CN\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\zh-CN\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\zh-TW\Microsoft.ui.xaml.dll.mui">
+      <PackagePath>Cherry-Labs\zh-TW\Microsoft.ui.xaml.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\zh-TW\Microsoft.UI.Xaml.Phone.dll.mui">
+      <PackagePath>Cherry-Labs\zh-TW\Microsoft.UI.Xaml.Phone.dll.mui</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png">
+      <PackagePath>Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MsixContent\WindowsAppRuntime.png">
+      <PackagePath>Cherry-Labs\WindowsAppRuntime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>Cherry-Labs\Cherry-Labs.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Cherry-Labs.runtimeconfig.json">
       <PackagePath>Cherry-Labs\Cherry-Labs.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\Cherry-Labs.dll">
+    <AppxPackagedFile Include="C:\Users\robin\OneDrive\文档\Robinson\hobbies\coding\Cherry-Labs\Cherry-Labs\Cherry-Labs\Cherry-Labs\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Cherry-Labs.dll">
       <PackagePath>Cherry-Labs\Cherry-Labs.dll</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Users\robin\.nuget\packages\microsoft.windowsappsdk\1.7.250606001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.7.msix">
       <Name>Microsoft.WindowsAppRuntime.1.7</Name>
       <Version>7000.522.1444.0</Version>

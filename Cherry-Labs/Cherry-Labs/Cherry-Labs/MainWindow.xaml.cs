@@ -176,6 +176,7 @@ namespace Cherry_Labs
 
         public async Task<string> ProcessVideoWithStorageFileAsync(StorageFile videoFile)
         {
+            const int max_frames = 960;
             string ffmpegPath = "ffmpeg";
 
             string videoPath = videoFile.Path;
@@ -206,7 +207,7 @@ namespace Cherry_Labs
             string[] frames = Directory.GetFiles(outputDir, "frame_*.jpg");
             List<string> base64Images = new();
 
-            foreach (var frame in frames.Take(480))
+            foreach (var frame in frames.Take(max_frames))
             {
                 byte[] imageBytes = await File.ReadAllBytesAsync(frame);
                 string base64 = Convert.ToBase64String(imageBytes);

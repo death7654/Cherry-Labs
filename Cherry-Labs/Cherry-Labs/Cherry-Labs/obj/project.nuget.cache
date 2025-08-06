@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4rBiPgSvYMY=",
+  "dgSpecHash": "91VPWp0nboo=",
   "success": true,
   "projectFilePath": "C:\\Users\\robin\\OneDrive\\文档\\Robinson\\hobbies\\coding\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs\\Cherry-Labs.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,6 @@
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.4654\\microsoft.windows.sdk.buildtools.10.0.26100.4654.nupkg.sha512",
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250606001\\microsoft.windowsappsdk.1.7.250606001.nupkg.sha512",
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.18\\microsoft.netcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
-    "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.18\\microsoft.netcore.app.crossgen2.win-x64.8.0.18.nupkg.sha512",
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.18\\microsoft.netcore.app.runtime.win-arm64.8.0.18.nupkg.sha512",
